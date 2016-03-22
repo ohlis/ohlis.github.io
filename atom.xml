@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://garyjeanlocke.com/"/>
-  <updated>2016-03-18T18:24:39.374Z</updated>
+  <updated>2016-03-22T07:23:56.135Z</updated>
   <id>http://garyjeanlocke.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://garyjeanlocke.com/2016/03/18/2016-3-18/"/>
     <id>http://garyjeanlocke.com/2016/03/18/2016-3-18/</id>
     <published>2016-03-18T15:26:01.268Z</published>
-    <updated>2016-03-18T18:24:39.374Z</updated>
+    <updated>2016-03-22T07:23:56.135Z</updated>
     
     <content type="html">&lt;p&gt;Welcome !&lt;/p&gt;
 &lt;h2 id=&quot;TWO-文編編輯採用Markdown&quot;&gt;&lt;a href=&quot;#TWO-文編編輯採用Markdown&quot; class=&quot;headerlink&quot; title=&quot;TWO. 文編編輯採用Markdown&quot;&gt;&lt;/a&gt;TWO. 文編編輯採用Markdown&lt;/h2&gt;&lt;p&gt;插入圖片&lt;/p&gt;
@@ -34,6 +34,10 @@
     
     </summary>
     
+      <category term="test" scheme="http://garyjeanlocke.com/categories/test/"/>
+    
+    
+      <category term="test" scheme="http://garyjeanlocke.com/tags/test/"/>
     
   </entry>
   
