@@ -42,10 +42,11 @@ NexT.utils = NexT.$u = {
 
   registerBackToTop: function () {
     var THRESHOLD = 50;
-
-    $top = $('.back-to-top');
+     var $top = $('.back-to-top');
+    <!--$top = $('.back-to-top');-->
     $(window).on('scroll', function () {
-      $top.toggleClass('back-to-top-on', document.body.scrollTop > THRESHOLD);
+      <!--$top.toggleClass('back-to-top-on', document.body.scrollTop > THRESHOLD);-->
+      $top.toggleClass('back-to-top-on', window.pageYOffset > THRESHOLD);
     });
 
     $top.on('click', function () {

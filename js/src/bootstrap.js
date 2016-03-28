@@ -2,7 +2,7 @@
 
 $(document).ready(function () {
 
-  $(document).trigger('bootstrap:before');
+  /*$(document).trigger('bootstrap:before');*/
 
   NexT.utils.isMobile() && window.FastClick.attach(document.body);
 
